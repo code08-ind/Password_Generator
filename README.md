@@ -3,4 +3,4 @@ A Password Generator Web App Made With The Help Of HTML, CSS, SASS And JAVASCRIP
 
 Visit My Project At Below Given Link ->
 
-https://code08-ind.github.io/Password_Generator/index.html
+https://code08-ind.github.io/Password_Generator/
